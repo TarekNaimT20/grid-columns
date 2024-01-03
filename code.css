@@ -1,0 +1,15 @@
+.one{
+    display: grid;
+    grid-template-columns: auto auto auto ;
+   grid-template-rows: 80px ;
+    
+    
+}
+.one > div{
+    background-color: blueviolet;
+    border: solid 1px;
+    padding: 9px;
+
+    
+
+} 
